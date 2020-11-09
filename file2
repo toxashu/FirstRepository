@@ -1,4 +1,8 @@
 Good bye!
 Line from user2
 1111 Line from user2
+<<<<<<< HEAD
 another line from user1
+=======
+line from user2
+>>>>>>> f1eb8088ce349a45b21633f717b16a4e6fbbe505
